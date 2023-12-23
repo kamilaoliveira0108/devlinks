@@ -8,12 +8,10 @@
 
 </p>
 
-
-
 <br>
 
 <p align="center">
-  <img alt="projeto Devlinks" src=".github/preview.png" width="100%">
+  <img alt="projeto devlinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,9 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online
 
-## 🔖 Layout
+## 🔖 Site
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/trocar/duplicate)
+Você pode visualizar o site através [DESSE LINK](https://kamilaoliveira0108.github.io/projeto/)
 
 
 
