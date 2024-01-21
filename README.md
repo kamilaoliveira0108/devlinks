@@ -29,7 +29,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online
 
 ## 🔖 Site
 
-Você pode visualizar o site através [DESSE LINK](https://kamilaoliveira0108.github.io/projeto/)
+Você pode visualizar o site através [DESSE LINK](https://kamilaoliveira0108.github.io/devlinks/)
 
 
 
